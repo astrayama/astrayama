@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋🏼
 
-<!--
-**astrayama/astrayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🫶🏼 I'm Isabel, or isa, and I make stuff. 
+- ✨ I am currently a Cloud Computing & Solutions student at Purdue University Global. I was also a Computer Science student at Hunter College, CUNY.
+- 📜 In the past, I've worked as a Hackathon Coach for Major League Hacking, a SWE intern for Microsoft, a PM intern for Roblox, a SWE intern for Oden Technologies, a web dev intern for Caribou Health, a teaching assistant, a tutor and more.
+- 🔭 I’m currently working on Yggdrasil and other personal productivity apps. 
+- 🌱 I’m currently learning cloud and quantum. 
+- 👯 I’m looking to collaborate on nearly anything!
+- 💬 Ask me about my many hobbies outside of programming. 
+- 📫 How to reach me: isabelabonitalla@gmail.com, and on [LinkedIn](https://www.linkedin.com/in/isabel-abonitalla/)
+- 🏳️‍🌈 Pronouns: she/her
+- ⚡ Fun fact: I have seen [2650+](https://anilist.co/user/isabiiil/) hours of anime. I can also read chakras, dreams, and tarot. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visit my personal website](https://isabel-abonitalla.lovable.app)
