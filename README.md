@@ -1,4 +1,4 @@
-![isa's character sheet banner](assets/banner.webp)
+![isa's character sheet banner](panels/banner.svg)
 
 <h1 align="center">✦ isa · polymath ✦</h1>
 
