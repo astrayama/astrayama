@@ -1,4 +1,4 @@
-![isa's character sheet banner](https://screenseiji.vercel.app/banner.png)
+![isa's character sheet banner](https://screenseiji.vercel.app/banner.webp)
 
 <h1 align="center">✦ isa · polymath ✦</h1>
 
