@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="264" viewBox="0 0 720 264">
+<rect x="2" y="2" width="716" height="260" rx="12" fill="#fffdf7" stroke="#a34fc4" stroke-width="3"/>
+<text x="24" y="38" font-family="Courier New, Courier, monospace" font-size="20" font-weight="bold" fill="#a34fc4">STATUS</text>
+<defs>
+<linearGradient id="bp" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff8fb3"/><stop offset="1" stop-color="#a34fc4"/></linearGradient>
+<linearGradient id="bgo" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#ff8fb3"/></linearGradient>
+<linearGradient id="bpu" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d3b8f5"/><stop offset="1" stop-color="#7c3aad"/></linearGradient>
+</defs>
+<text x="24.0" y="82" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">Sprint HP</text>
+<rect x="130" y="68" width="340" height="18" rx="9" fill="#f3e8f7"/>
+<rect x="130" y="68" width="306" height="18" rx="9" fill="url(#bp)"/>
+<text x="484.0" y="82" font-family="Courier New, Courier, monospace" font-size="14" fill="#3b2b4a">90% · graduation Nov 2026</text>
+<text x="24.0" y="118" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">Mana</text>
+<rect x="130" y="104" width="340" height="18" rx="9" fill="#f3e8f7"/>
+<rect x="130" y="104" width="204" height="18" rx="9" fill="url(#bp)"/>
+<text x="484.0" y="118" font-family="Courier New, Courier, monospace" font-size="14" fill="#3b2b4a">60% · coffee not required</text>
+<text x="24.0" y="154" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">XP</text>
+<rect x="130" y="140" width="340" height="18" rx="9" fill="#f3e8f7"/>
+<rect x="130" y="140" width="34" height="18" rx="9" fill="url(#bgo)"/>
+<text x="484.0" y="154" font-family="Courier New, Courier, monospace" font-size="14" fill="#3b2b4a">10% · a few weeks into 28</text>
+<text x="24.0" y="190" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">Anime</text>
+<rect x="130" y="176" width="340" height="18" rx="9" fill="#f3e8f7"/>
+<rect x="130" y="176" width="323" height="18" rx="9" fill="url(#bp)"/>
+<text x="484.0" y="190" font-family="Courier New, Courier, monospace" font-size="14" fill="#3b2b4a">95% · 2,650+ hrs logged</text>
+<text x="24.0" y="226" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">Quests</text>
+<rect x="130" y="212" width="340" height="18" rx="9" fill="#f3e8f7"/>
+<rect x="130" y="212" width="221" height="18" rx="9" fill="url(#bpu)"/>
+<text x="484.0" y="226" font-family="Courier New, Courier, monospace" font-size="14" fill="#3b2b4a">65% · 10 active</text>
+</svg>

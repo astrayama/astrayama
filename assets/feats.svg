@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="224" viewBox="0 0 720 224">
+<rect x="2" y="2" width="716" height="220" rx="12" fill="#fffdf7" stroke="#a34fc4" stroke-width="3"/>
+<text x="24" y="38" font-family="Courier New, Courier, monospace" font-size="20" font-weight="bold" fill="#a34fc4">FEATS</text>
+<polygon points="31.0,67.0 33.0,72.3 38.6,72.5 34.2,76.0 35.7,81.5 31.0,78.4 26.3,81.5 27.8,76.0 23.4,72.5 29.0,72.3" fill="#e8a93d"/>
+<text x="48.0" y="80" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">18x Hackathon Winner</text><text x="228.0" y="80" font-family="Courier New, Courier, monospace" font-size="15" fill="#b48ac2"> — 60+ events entered</text>
+<polygon points="31.0,101.0 33.0,106.3 38.6,106.5 34.2,110.0 35.7,115.5 31.0,112.4 26.3,115.5 27.8,110.0 23.4,106.5 29.0,106.3" fill="#e8a93d"/>
+<text x="48.0" y="114" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">MLH Top 50</text><text x="138.0" y="114" font-family="Courier New, Courier, monospace" font-size="15" fill="#b48ac2"> — coached 1,000+ hackers</text>
+<polygon points="31.0,135.0 33.0,140.3 38.6,140.5 34.2,144.0 35.7,149.5 31.0,146.4 26.3,149.5 27.8,144.0 23.4,140.5 29.0,140.3" fill="#e8a93d"/>
+<text x="48.0" y="148" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">Profit Unlocked</text><text x="183.0" y="148" font-family="Courier New, Courier, monospace" font-size="15" fill="#b48ac2"> — AI journaling SaaS, zero to paying customers</text>
+<polygon points="31.0,169.0 33.0,174.3 38.6,174.5 34.2,178.0 35.7,183.5 31.0,180.4 26.3,183.5 27.8,178.0 23.4,174.5 29.0,174.3" fill="#e8a93d"/>
+<text x="48.0" y="182" font-family="Courier New, Courier, monospace" font-size="15" fill="#7c3aad" font-weight="bold">Phage Hunter</text><text x="156.0" y="182" font-family="Courier New, Courier, monospace" font-size="15" fill="#b48ac2"> — discovered a novel bacteriophage</text>
+</svg>
